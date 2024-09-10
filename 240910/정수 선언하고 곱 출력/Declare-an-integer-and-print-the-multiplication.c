@@ -6,7 +6,7 @@ int main()
     int b = 5;
     int c = a*b;
 
-    printf("26 * 5 = %d", c);
+    printf("%d * %d = %d",a, b, c);
 
     return 0;
 }
