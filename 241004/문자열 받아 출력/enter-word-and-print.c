@@ -3,7 +3,7 @@
 int main() 
 {
 
-	char a[15];
+	char a[10];
 
 	scanf("%s", a);
 	printf("%s", a);
